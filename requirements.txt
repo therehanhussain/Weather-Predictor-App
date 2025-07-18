@@ -1,1 +1,5 @@
-streamlit\npandas\numpy\nmatplotlib
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
